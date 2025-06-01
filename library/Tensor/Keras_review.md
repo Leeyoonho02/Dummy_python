@@ -1,4 +1,4 @@
-# 🤖 Day 4 – Keras 기본 복습 정리
+# 🤖 Keras 기본 복습 정리 made by GPT
 
 ## ✅ 1. 모델 구성 – Sequential API
 
@@ -97,7 +97,3 @@ y_train = (x_train[:, 0] > 0.5).astype(int).reshape(-1, 1)
 ```
 
 > x의 첫 번째 값이 0.5보다 크면 1, 아니면 0 → 학습 가능해짐!
-
----
-
-> 다음은: **Day 5 – Keras 응용 (다중 분류, 커스텀 모델 등)**
