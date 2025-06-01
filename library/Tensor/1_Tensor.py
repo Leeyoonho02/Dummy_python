@@ -14,7 +14,7 @@ y = tf.constant([4.0, 5.0, 6.0])
 
 print(tf.add(x, y))
 print(tf.multiply(x, y))
-print(tf.reduce_mean(y))
+print(tf.reduce_mean(y)) # reduce: 어떠한 방법으로 값을 하나로 줄인다는 뜻.
 
 # 자동 미분 auto differentiation
 x = tf.Variable(3.0)
