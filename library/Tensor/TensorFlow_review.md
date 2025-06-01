@@ -1,4 +1,4 @@
-# 🧠 Day 3 – TensorFlow 기본 복습 정리
+# 🧠 TensorFlow 기본 복습 정리 made by GPT
 
 ## ✅ 1. 텐서 생성
 
@@ -81,7 +81,3 @@ arr = np.array([[1, 2, 3], [4, 5, 6]])
 tf_arr = tf.convert_to_tensor(arr)
 np_arr = tf_arr.numpy()
 ```
-
----
-
-> 다음은: **Day 4 – Keras 모델 설계 복습**
